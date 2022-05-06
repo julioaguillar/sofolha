@@ -1,0 +1,15 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/input-mask.js": "/js/input-mask.js",
+    "/css/app.css": "/css/app.css",
+    "/webfonts/fa-brands-400.ttf": "/webfonts/fa-brands-400.ttf",
+    "/webfonts/fa-brands-400.woff2": "/webfonts/fa-brands-400.woff2",
+    "/webfonts/fa-regular-400.ttf": "/webfonts/fa-regular-400.ttf",
+    "/webfonts/fa-regular-400.woff2": "/webfonts/fa-regular-400.woff2",
+    "/webfonts/fa-solid-900.ttf": "/webfonts/fa-solid-900.ttf",
+    "/webfonts/fa-solid-900.woff2": "/webfonts/fa-solid-900.woff2",
+    "/webfonts/fa-v4compatibility.ttf": "/webfonts/fa-v4compatibility.ttf",
+    "/webfonts/fa-v4compatibility.woff2": "/webfonts/fa-v4compatibility.woff2",
+    "/js/jquery/jquery.js": "/js/jquery/jquery.js",
+    "/js/jquery/jquery.mask.js": "/js/jquery/jquery.mask.js"
+}
